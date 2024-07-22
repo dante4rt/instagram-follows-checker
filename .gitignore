@@ -1,0 +1,6 @@
+node_modules
+
+followers_*.json
+following*.json
+package-lock.json
+*followingBack.txt

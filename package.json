@@ -1,0 +1,21 @@
+{
+  "name": "instagram-follows-checker",
+  "version": "1.0.0",
+  "description": "A tool for checking who is following you on Instagram and identifying those who do not follow you back. It compares your list of followers with those you are following and outputs the results to text files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "follows",
+    "checker",
+    "social-media"
+  ],
+  "author": "dante4rt",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "moment": "^2.30.1"
+  }
+}
